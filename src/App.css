@@ -1,0 +1,19 @@
+.App{
+  min-height: 98vh;
+  border: 8px solid rgba(143, 137, 137, 0.267);
+  margin: 5px;
+  padding: 5px;
+  background-repeat: no-repeat;
+  background-size:cover;
+
+
+}
+
+.homeDiv{
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+  justify-content:space-around ;
+}

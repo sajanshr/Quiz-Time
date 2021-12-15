@@ -1,0 +1,25 @@
+.options{
+    display: flex;
+    flex-direction:  column;
+    
+
+}
+.options button{
+    height: 50px;
+    padding: 10px;
+
+    margin: 10px;
+
+}
+
+
+.select{
+    background-color: rgb(155, 91, 14);
+    color: white;
+    box-shadow: 0 0 1px black;
+    
+}
+.controls{
+    display: flex;
+    justify-content: space-around;
+}
